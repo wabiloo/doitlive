@@ -208,6 +208,10 @@ in which:
 - A is an optional number, which indicates the number of blank lines to add before the comment (defaults to 0)
 - B is an optional number, which indicates the number of blank lines to add after the comment (defaults to 0)
 
+#doitlive clear: now
+********************
+
+clears the screen at the time when that line is met. 
 
 Python mode
 -----------
